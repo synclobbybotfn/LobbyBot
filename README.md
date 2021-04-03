@@ -8,7 +8,7 @@
 
 An expansive Fortnite lobby bot with a handful of features.
 
-> Discord server: <a href=" https://discord.gg/XrwEAVn8rU" target="_blank">All Sync Projects</a>
+> Discord server: <a href=" https://discord.gg/XrwEAVn8rU" target="_blank"></a>
 
 ## Getting Started
 
