@@ -4,7 +4,7 @@
 - !copy
 - !hide (user)
 
-# Xensis
+# Sync
 
 An expansive Fortnite lobby bot with a handful of features.
 
