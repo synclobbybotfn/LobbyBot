@@ -8,7 +8,7 @@
 
 An expansive Fortnite lobby bot with a handful of features.
 
-> Discord server: <a href=" https://discord.gg/XrwEAVn8rU" target="_blank"></a>
+> <a href=" https://discord.gg/XrwEAVn8rU" target="_blank">Discord</a>
 
 ## Getting Started
 
